@@ -5,9 +5,10 @@ A part of PisteGame2023
 
  1. Go to [this link](https://serv1.flopcreation.fr/games/mymap)
  2. Create an account
- 3. Access the editor
- 4. Edit the block named "{!NAME NOT RESOLVED}"
- 5. Change the background color to blue
+ 3. Got to the "Mes Blocs" section
+ 4. Access the editor
+ 5. Edit the block named "{!NAME NOT RESOLVED}"
+ 6. Change the background color to blue
 <br>
 The place to change to color :<br>
 
